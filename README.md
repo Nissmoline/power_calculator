@@ -1,16 +1,63 @@
-# power_calculator
+# ⚡ Power Consumption Calculator
 
-A new Flutter project.
+**Power Consumption Calculator** is a simple mobile application developed using Flutter and Dart. The app is designed to calculate power consumption based on user-input values for current, voltage, and power factor.
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
+| Home Screen | Result Screen |
+|-------------|----------------|
+| ![Home Screen](https://via.placeholder.com/200x400.png?text=Home+Screen) | ![Result Screen](https://via.placeholder.com/200x400.png?text=Result+Screen) |
 
-A few resources to get you started if this is your first Flutter project:
+*(Replace the links with actual screenshots if needed.)*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Input fields for Current (Amperes), Voltage (Volts), and Power Factor (0–1)
+- Data validation and protection against incorrect input
+- Consent checkbox for data processing
+- Calculates power using the formula:  
+  **Power = Current × Voltage × Power Factor**
+- Displays result on a separate screen
+- Button to return to the main screen
+
+## 🧩 Tech Stack
+
+- **Flutter** (SDK)
+- **Dart** (Programming Language)
+- Visual Studio Code / Android Studio
+
+## 📦 Installation
+
+1. Make sure [Flutter SDK](https://flutter.dev/docs/get-started/install) is installed
+2. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/power-consumption-calculator.git
+cd power-consumption-calculator
+```
+
+3. Install dependencies:
+
+```bash
+flutter pub get
+```
+
+4. Run the app on an emulator or connected device:
+
+```bash
+flutter run
+```
+
+## 🧪 Testing
+
+The app has been tested on an Android emulator. It supports:
+
+- Input validation
+- Accurate calculations
+- Reliable navigation between screens
+
+## 📝 Author
+
+**Konstantin Kolpaksidis**  
+TUSUR University, Department of Information Processing Automation  
+2025
