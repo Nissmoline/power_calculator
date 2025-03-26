@@ -6,9 +6,8 @@
 
 | Home Screen | Result Screen |
 |-------------|----------------|
-| ![Home Screen](https://via.placeholder.com/200x400.png?text=Home+Screen) | ![Result Screen](https://via.placeholder.com/200x400.png?text=Result+Screen) |
+| ![Home Screen](https://github.com/Nissmoline/power_calculator/blob/main/home_screen.bmp) | ![Result Screen](https://github.com/Nissmoline/power_calculator/blob/main/result.bmp) |
 
-*(Replace the links with actual screenshots if needed.)*
 
 ## 🚀 Features
 
