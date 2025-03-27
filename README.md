@@ -31,7 +31,7 @@
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/power-consumption-calculator.git
+git clone https://github.com/Nissmoline/power_calculator.git
 cd power-consumption-calculator
 ```
 
