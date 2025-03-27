@@ -32,7 +32,7 @@
 
 ```bash
 git clone https://github.com/Nissmoline/power_calculator.git
-cd power-consumption-calculator
+cd power-calculator
 ```
 
 3. Install dependencies:
